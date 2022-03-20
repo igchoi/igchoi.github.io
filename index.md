@@ -1,11 +1,11 @@
-## Welcome to Prof. Choi Page
+## Welcome to [IG Choi](http://www.choilab.org) Page
 
-### Class companion sites
+## Class companion sites
 
-#### LIST203/204 Microbiology I/II
+### LIST203/204 Microbiology I/II
 * Microbiology [class companion site](https://igchoi.github.io/microbio-class)
 
-#### LIBT377 Synthetic Biology
+### LIBT377 Synthetic Biology
 * Synthethic biology [class companion site](https://igchoi.github.io/synbio-class)
 
 
