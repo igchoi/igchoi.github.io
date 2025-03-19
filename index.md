@@ -1,4 +1,5 @@
-## Welcome to [IG Choi](http://www.choilab.org) Page
+## Professor In-Geol Choi
+## [Computational & Synthetic Biology Laboratory](http://www.choilab.org)
 
 ## Class companion sites
 
